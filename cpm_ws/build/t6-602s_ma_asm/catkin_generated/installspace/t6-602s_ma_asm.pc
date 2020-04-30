@@ -1,0 +1,8 @@
+prefix=/home/miguel/cpm_ws/install
+
+Name: t6-602s_ma_asm
+Description: Description of t6-602s_ma_asm
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

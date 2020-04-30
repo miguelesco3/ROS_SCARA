@@ -1,0 +1,2 @@
+moveit_config:scara
+-DCATKIN_DEVEL_PREFIX=/home/miguel/cpm_ws/devel -DCMAKE_INSTALL_PREFIX=/home/miguel/cpm_ws/install -G Unix Makefiles

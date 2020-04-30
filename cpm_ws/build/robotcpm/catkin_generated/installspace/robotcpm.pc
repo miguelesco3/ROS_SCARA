@@ -1,0 +1,8 @@
+prefix=/home/miguel/cpm_ws/install
+
+Name: robotcpm
+Description: Description of robotcpm
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

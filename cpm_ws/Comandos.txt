@@ -1,0 +1,4 @@
+cd cpm_ws
+source devel/setup.bash
+roslaunch scara display.launch
+roslaunch moveit_setup_assistant setup_assistant.launch
